@@ -1,11 +1,11 @@
-Producto ,Cantidad ,Ganancias 
-Bicicletas,478,7516
-Bicicletas ,600,8880
+Product ,amount , profits
+Bicycle,478,7516
+Bicycle ,600,8880
 Scooter,500,4272
 Scooter,390, 3005
-Bicicletas,200,2309
-Bicicletas,400,4507
-Bicicletas,458,5608
+Bicycle,200,2309
+Bicycle,400,4507
+Bicycle,458,5608
 Scooter,234,2999
-Bicicletas,190,5817
+Bicycle,190,5817
 Scooter,100,4857
